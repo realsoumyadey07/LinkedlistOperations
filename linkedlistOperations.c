@@ -140,7 +140,7 @@ int main(){
     // head = deleteFirstNode(head);
     // head= deleteNodeInbetween(head,3);
     // head= deletingLastNode(head);
-    head = reverselist(head);
+    // head = reverselist(head);
     printf("Linkedlist after insertion: \n");
     linkedlistTraversal(head);
     return 0;
